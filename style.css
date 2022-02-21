@@ -1,0 +1,57 @@
+button {
+    float : right;
+}
+
+#Image_Search {
+    margin-bottom : 10px;
+    position: absolute;
+    top : 0;
+    right : 0;
+}
+
+input {
+    border-radius: 10px;
+    text-align : center;
+    margin-left : 600px;
+}
+
+#submit1 {
+    margin-left : 623px;
+    background-color: #4d90fe;
+    color : white;
+    border-color: white;
+}
+
+#submit2 {
+    margin-left : 601px;
+    background-color: #4d90fe;
+    color : white;
+    border-color: white;
+}
+
+#submit3 {
+    margin-left : 612.5px;
+    border-radius : 2.5px;
+    padding : 5px;
+    background-color: #4d90fe;
+    color : white;
+    border-color: white;
+}
+
+#lucky_button {
+    width : 111px;
+    float : none;
+    text-align : center;
+    margin-left : 620px;
+}
+
+#lucky_button:hover {
+    content : "Hello"
+}
+
+#Advanced_Search {
+    position: absolute;
+    top : 0;
+    right : 0;
+    margin-right : 100px;
+}
